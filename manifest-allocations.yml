@@ -4,7 +4,6 @@ applications:
   host: allocations-pal-jwas
   memory: 1G
   instances: 1
-  env:
   services:
   - tracker-allocations-database
   - tracker-service-registry
