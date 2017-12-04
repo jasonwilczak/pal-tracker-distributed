@@ -1,7 +1,7 @@
 applications:
 - name: tracker-backlog
   path: ./applications/backlog-server/build/libs/backlog-server.jar
-  host: backlog-pal-jwas
+  host: backlog-pal-jw
   memory: 1G
   instances: 1
   services:
